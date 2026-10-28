@@ -5,7 +5,7 @@ export const personalData = {
   email: "bagasnurhanindito@gmail.com",
   socials: [
     { name: "GitHub", url: "https://github.com/bagasnurhanindito" },
-    { name: "LinkedIn", url: "https://www.linkedin.com/in/bagasnur-hanindito-818071427/" }
+    { name: "LinkedIn", url: "https://www.linkedin.com/in/bagas-nur-hanindito-818071427/" }
   ]
 };
 
