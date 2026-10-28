@@ -21,7 +21,7 @@ export const experience = [
     description: "Melakukan penelitian perbandingan ekstraksi fitur menggunakan arsitektur MobileNetV2 yang dipadukan dengan algoritma klasifikasi hybrid SVM dan KNN untuk mendeteksi tingkat kematangan citra buah kelapa sawit, serta mengintegrasikan model tersebut ke dalam aplikasi web berbasis Flask."
   },
   {
-    year: "2025 - 2026",
+    year: "2025",
     role: "IT Intern - Unit Airport Technology",
     company: "PT Angkasa Pura II (InJourney Airports)",
     description: "Berperan ganda dalam operasional infrastruktur dan pengembangan perangkat lunak. Bertanggung jawab atas pemeliharaan dan troubleshooting jaringan di area terminal bandara, serta merancang dua sistem web (Dashboard Presensi Rapat & Sistem Penilaian Kinerja 360-Degree) secara end-to-end untuk digitalisasi instansi."
