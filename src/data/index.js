@@ -108,5 +108,12 @@ export const certifications = [
     year: "2026",
     image: "/Pelatihan.png",
     pdf: "/sertifikat pelatihan.pdf" // 👈
+  },
+  {
+    title: "AI Engineer For Milenial",
+    issuer: "Digital Talent Scholarship (KOMDIGI)",
+    year: "2026",
+    image: "/PelatihanAI.png", 
+    pdf: "/Sertifikat AI.pdf" 
   }
 ];
